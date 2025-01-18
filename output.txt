@@ -1,0 +1,11 @@
+Product ID               Review Count             Average Rating           Brand Name               
+B00M2OGS08               505                      4.8811881188118775       SURGE                    
+B00S0ABRNQ               465                      4.610752688172041        Reese's                  
+B005KK56JU               212                      4.745283018867922        Quaker                   
+B005KK56JU               171                      4.771929824561404        Quaker                   
+B00M2OGS08               145                      4.862068965517243        SURGE                    
+B001SAQOKQ               140                      4.957142857142857        Kodiak Cakes             
+B01EUEIL3E               127                      4.9212598425196825       Soylent                  
+B00M2OGS08               122                      4.647540983606557        SURGE                    
+B00S0ABRNQ               111                      4.63963963963964         Reese's                  
+B00M2OGS08               109                      4.743119266055046        SURGE                    
